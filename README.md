@@ -140,6 +140,3 @@ The best-performing model is identified based on the F1 Score. Key findings incl
 - Logistic Regression and Random Forest also performed well but were slightly less effective.
 
 ---
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
