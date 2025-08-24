@@ -136,7 +136,7 @@ Several machine learning models are trained and evaluated:
 
 ## Results
 The best-performing model is identified based on the F1 Score. Key findings include:
-- Gradient Boosting achieved the highest F1 Score of **0.5775**.
-- Logistic Regression and Random Forest also performed well but were slightly less effective.
+- Gradient Boosting achieved the highest F1 Score of **0.8775**.
+- Logistic Regression is slightly less effective compared to Random Forest.
 
 ---
